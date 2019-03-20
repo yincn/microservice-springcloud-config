@@ -9,7 +9,7 @@ spring:
         git:
           uri: https://github.com/yincn/microservice-springcloud-config-readconfig.git #GitHub上面的git仓库名字，要根据 HTTPS/SSH 二选 一，SSH需要配置公私密钥
           username: yincn
-          password: github_100120
+          password: ***
           
 server: 
   port: 3344 
